@@ -1,6 +1,6 @@
-package lessons.javaCore.streams.serialAndZip;
+package lessons.javaCore.streams.src.serialAndZip;
 
-import lessons.javaCore.streams.install.GameProgress;
+import lessons.javaCore.streams.src.install.GameProgress;
 
 import java.io.*;
 import java.util.ArrayList;

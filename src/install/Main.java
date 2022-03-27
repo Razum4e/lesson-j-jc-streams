@@ -1,4 +1,4 @@
-package lessons.javaCore.streams.install;
+package lessons.javaCore.streams.src.install;
 
 import java.io.File;
 import java.io.FileWriter;
